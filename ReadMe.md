@@ -44,3 +44,6 @@ From the dataset we can infer that male subscribers are steady users of the bike
 [heat-map_user-trips-by-gender](..\\resources\\images\\../resources/images/heat-map_user-trips-by-gender.png) \
 [trip-by-gender-week-day-per-hour](..\\resources\\images\\trip-by-gender_week-day-per-hour.png) \
 [trip-by-weekday-hours](..\\resources\\images\\trip-by-weekday_hours.png)
+
+Visualization in Tableau:
+https://public.tableau.com/profile/richard.depestre#!/vizhome/module-14-challenge_deliv-2_cotbg/Dashboard2?publish=yes
