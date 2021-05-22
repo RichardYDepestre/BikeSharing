@@ -27,7 +27,7 @@ Finally, we confned and saved all the changes above to the dataframe onto a new 
 
 ## Data Analysis
 
-In Tableau, we imported the dataset: citibike_df_less_index.csv, from the previous step, and created visualizations that show: \
+In Tableau, we imported the dataset: citibike_df_less_index.csv, from the previous step, and created visualizations that show: 
 
 - Checkout Times for Users and by Gender
   These charts show a correlation between trip duration and number of bicycles that get checked out. For instance, for short trips, ~5 minute, 145K+ bicycles get checked out. Their users travel short distances. The data also shows that of the genders, identified, male check out 100+K bikes whereas females, for the same trip duration, account less that 40K bikes.
